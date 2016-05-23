@@ -1,5 +1,5 @@
 {
    "delay": 1000,
-   "source": "MySource",
+   "source": "Windows Performance Counters",
    "pollInterval": "1000"
 }
